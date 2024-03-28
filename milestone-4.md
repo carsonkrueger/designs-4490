@@ -1,4 +1,4 @@
-# Symbol Table Fix
+# Symbol Table
 
 - Add offsets to symbol table for local variables and non static class member variables
 
